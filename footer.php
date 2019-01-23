@@ -14,7 +14,7 @@
 <div class="footer" id="user">
     <div class="row">
         <div class="col-xs-12">
-            Copyright &COPY; <?= date('Y')?> Developer Kampung
+            Copyright &COPY; <?= date('Y')?> Developer Kampoeng  |
             <a href="#">Dokumentasi</a>
             <a href="#">Peta Situs</a>
             <a href="#">Support</a>
